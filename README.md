@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Diana2x
+- 👋 Hi, I’m Diana~!
 - 👀 I’m interested in learning web development
 - 🌱 I’m currently learning HTML , CSS , Javascript. 
 - 💞️ I’m looking to collaborate on open source projects
