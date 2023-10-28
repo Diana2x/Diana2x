@@ -5,25 +5,29 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=500&color=D2AFFF&center=true&vCenter=true&random=false&width=435&lines=Learning+Full-stack+web+and+App;Always+Learning+new+things;I+enjoy+UI%2FUX+design;Twice+enjoyer!" alt="Facts about Diana" />
  </p>
- 
-🔭 I’m currently working on **My own portfolio.**
+ <br/>
 
-🌱 I’m currently learning **React & ReactNative.**
-
-💬 Ask me about **Food**.
-
-⚡ Fun fact **I like Dota 2.**
+ <img align="right" width="400px" src="https://static.zerochan.net/Sailor.Saturn.full.3132220.gif" />
+<h2>⚡️ A Few Quick Facts</h2>
+<ul>
+<li>🔭 I’m currently working on <strong>My Own portfolio projects</strong>.</li>
+<li>🧐 Learning about <strong>React & ReactNative.</strong></li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Diana2x">Github</a>.</li>
+<li>💬 Ping me about <strong>food</strong>.</li>
+<li>📙 Check out my <a href="#">resume</a>.</li>
+<li>🎉 Fun Fact: <strong>I like Dota 2</strong>。</li>
+</ul>
 
 <br/>
 
- <h3 align="center"> Connect with me: Diana_xo
+ <h3 align="center"> Connect with me: Diana_xo 
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diana_xo" height="30" width="40" />
 </h3>
 
  <br/>
  <br/>
  
- <h2 align="center" style="color:#D2AFFF;">Skills</h2>
+ <h2 align="center" style="color:#D2AFFF;">🚀 Some Tools I Use</h2>
  <br/>
  <br/>
  <div align="center">
@@ -48,4 +52,3 @@
  <br/>
  
  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diana2x&" alt="diana2x" /></p>
-
