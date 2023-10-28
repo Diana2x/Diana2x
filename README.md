@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&pause=500&color=D2AFFF&center=true&vCenter=true&random=false&width=435&lines=Learning+Full-stack+web+and+App;Always+Learning+new+things;I+enjoy+UI%2FUX+design;Twice+enjoyer!" alt="Facts about Diana" />
  </p>
  
-<p align="left">
-  <img src="https://github.com/Diana2x/images-in-readme/assets/33419209/eae0b0a5-f15d-429b-b139-f9feb521da41" width="150" style="float:right">
-</p>
- 
 🔭 I’m currently working on **My own portfolio.**
 
 🌱 I’m currently learning **React & ReactNative.**
@@ -20,7 +16,7 @@
 
 <br/>
 
- <h3 align="center"> Connect with me: <spawn style="color:#D2AFFF;"><strong> Diana_xo </strong></spawn>
+ <h3 align="center"> Connect with me: Diana_xo
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diana_xo" height="30" width="40" />
 </h3>
 
