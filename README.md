@@ -11,10 +11,9 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <strong>My Own portfolio projects</strong>.</li>
-<li>🧐 Learning about <strong>React & ReactNative.</strong></li>
+<li>🧐 Learning about <strong> Back-end with Java </strong></li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Diana2x">Github</a>.</li>
 <li>💬 Ping me about <strong>food</strong>.</li>
-<li>📙 Check out my <a href="#">resume</a>.</li>
 <li>🎉 Fun Fact: <strong>I like Dota 2</strong>。</li>
 </ul>
 
