@@ -7,24 +7,8 @@
  </p>
  <br/>
 
- <img align="right" width="400px" src="https://static.zerochan.net/Sailor.Saturn.full.3132220.gif" />
-<h2>⚡️ A Few Quick Facts</h2>
-<ul>
-<li>🔭 I’m currently working on <strong>My Own portfolio projects</strong>.</li>
-<li>🧐 Learning about <strong> Back-end with Java </strong></li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Diana2x">Github</a>.</li>
-<li>💬 Ping me about <strong>food</strong>.</li>
-<li>🎉 Fun Fact: <strong>I like Dota 2</strong>。</li>
-</ul>
-
 <br/>
-
- <h3 align="center"> Connect with me: Diana_xo 
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="diana_xo" height="30" width="40" />
-</h3>
-
- <br/>
- <br/>
+<br/>
  
  <h2 align="center" style="color:#D2AFFF;">🚀 Some Tools I Use</h2>
  <br/>
