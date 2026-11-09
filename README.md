@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Diana%20Coe&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%20full-stack%20developer%20%C2%B7%20ui%2Fux%20designer%20%E2%9C%A7&descSize=18&descAlignY=60&animation=fadeIn" alt="Diana Coe header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Diana%20Coe&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=%E2%9C%A7%20full-stack%20developer%20%C2%B7%20ui%2Fux%20designer%20%E2%9C%A7&descSize=18&descAlignY=60&animation=fadeIn" alt="Diana header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2500&pause=800&color=D2AFFF&center=true&vCenter=true&width=520&height=40&lines=full-stack+web+%26+app+development+%F0%9F%8C%B8;interfaces+that+feel+as+good+as+they+look+%E2%99%A1;clean+code+%2B+pretty+pixels+%E2%9C%A8;twice+enjoyer+%F0%9F%8D%AD" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2500&pause=800&color=D2AFFF&center=true&vCenter=true&width=520&height=40&lines=full-stack+web+%26+app+development+%F0%9F%8C%B8;interfaces+that+feel+as+good+as+they+look+%E2%99%A1;clean+code+%2B+pretty+pixels+%E2%9C%A8;twice+enjoyer+%F0%9F%8D%AD" alt="uhh" />
 
 <br/>
 
